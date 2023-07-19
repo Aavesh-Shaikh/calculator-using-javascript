@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  align-items: center;
+  margin-left: -10px;
+  margin-top: -21px;
+}
+.sub_div{
+    margin: 0;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-content: center;
+align-items: center;
+background: black;
+width: 700px;
+height: 1000px;
+}
+
+.text-center {
+  text-align: center;
+}
+.bg-red {
+  background-color: red;
+}
+.mx-auto {
+  margin: auto;
+}
+.m-w-20 {
+  max-width: 20vw;
+}
+/* .flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
